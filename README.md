@@ -1,2 +1,1 @@
-# persistentecho.com
-Persistent Echo's website
+# Persistent Echo website
